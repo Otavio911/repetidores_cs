@@ -1,0 +1,16 @@
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\bin\Debug\net10.0-windows\EstruturasRep.exe
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\bin\Debug\net10.0-windows\EstruturasRep.deps.json
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\bin\Debug\net10.0-windows\EstruturasRep.runtimeconfig.json
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\bin\Debug\net10.0-windows\EstruturasRep.dll
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\bin\Debug\net10.0-windows\EstruturasRep.pdb
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.Repetidores.resources
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.csproj.GenerateResource.cache
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.AssemblyInfoInputs.cache
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.AssemblyInfo.cs
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.dll
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\refint\EstruturasRep.dll
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.pdb
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\EstruturasRep.genruntimeconfig.cache
+C:\Users\alunoetec\OneDrive\2°DS\DS\EstruturasRep\EstruturasRep\obj\Debug\net10.0-windows\ref\EstruturasRep.dll
